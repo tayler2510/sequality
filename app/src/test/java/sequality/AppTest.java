@@ -6,7 +6,7 @@ package sequality;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class ApppTest {
+public class AppTest {
   @Test
   public void testAppHasAGreeting() {
     App classUnderTest = new App();
